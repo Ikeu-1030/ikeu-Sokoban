@@ -78,7 +78,7 @@
 ## 📂 项目结构
 
 ```text
-src/Sokoban/
+src/java/com/Sokoban/
 ├── Application.java       // 程序入口 (Main)
 ├── model/                 // 数据模型与逻辑
 │   ├── Game.java          // 游戏总控制器
